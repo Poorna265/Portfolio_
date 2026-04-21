@@ -1,0 +1,6 @@
+.bi-bluesky{
+    background: #5c707d;
+background: linear-gradient(90deg, rgba(92, 112, 125, 1) 0%, rgba(87, 199, 133, 1) 100%, rgba(236, 240, 233, 1) 100%, rgba(137, 171, 162, 1) 100%, rgba(200, 216, 95, 1) 100%, rgba(237, 221, 83, 1) 100%);
+    font-size: 25px;
+    color: aliceblue;
+}
